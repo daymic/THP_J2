@@ -1,0 +1,45 @@
+
+.img{
+	height: 150px;
+	width: 360px;
+}
+.titre{
+	display: flex;
+	justify-content: flex-end;
+}
+footer{
+	margin:0 0;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background-color: #cacad2;
+	opacity: .5;
+	width: 99.7%;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
+.pht{
+
+	display:flex;
+		justify-content: center;
+}
+.pht1{
+
+	display:flex;
+		justify-content: center;
+}
+.pht2{
+
+	display:flex;
+		justify-content: center;
+}
+.pht3{
+
+	display:flex;
+		justify-content: center;
+}
+.fgauche{
+	display:flex;
+	justify-content: space-between;
+
+}
